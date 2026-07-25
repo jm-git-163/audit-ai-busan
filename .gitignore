@@ -1,0 +1,25 @@
+# secrets
+.env
+.env.local
+*.pem
+*.key
+
+# OS / editor
+Thumbs.db
+Desktop.ini
+.DS_Store
+*.swp
+.vscode/
+.idea/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# local test / scratch
+_pdfjs_test/
+_patch_*.py
+*.pyc
+.vercel/

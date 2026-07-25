@@ -1,0 +1,1 @@
+# stdlib only — server.py / api/* need no third-party packages
